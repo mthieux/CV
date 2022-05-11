@@ -1,8 +1,31 @@
-## Welcome to GitHub Pages
+# Marine  
+**PhD Student in Neurosciences - Neuropsychologist**   
+:fr: _Lyon Neurosciences Research Center_, Lyon, France   
+:envelope: [Email](mailto:marine.thieux@chu-lyon.fr)   :earth_africa: [ResearchGate](https://www.researchgate.net/profile/Marine-Thieux?ev=hdr_xprf&_sg=oUGMqPkHXiTZ7uccPAa7bmgQQe6HQNjFWnJqlfMrAMW1O5GK4lazSc5DA6hDtamllZ4z-tKcs46usmSDAY9wLO75) :round_pushpin: [ORCID](https://orcid.org/0000-0001-9763-2802)  :black_nib: [Google Scholar](https://scholar.google.com/citations?hl=fr&user=x-7oMl4AAAAJ)  :books: [LinkedIn](https://www.linkedin.com/in/marine-thieux-b7b313115/)     
 
-You can use the [editor on GitHub](https://github.com/mthieux/CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## :mortar_board: EDUCATION
+```markdown
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+
+```
+## :briefcase: WORK EXPERIENCES
+
+## :trophy: SKILLS, CERTIFICATIONS & GRANTS
+
+## :microscope: INTERESTS
+
+## :newspaper_roll: PUBLICATIONS
+
 
 ### Markdown
 
