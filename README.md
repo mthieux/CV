@@ -48,7 +48,8 @@ _2019 - 2020_ \| **Clinical Research Assistant (CRA)** \| [Lyon Neuroscience Res
 - Project funding: _Vigilance in children_ \| [Neurodis fundation](https://www.fondation-neurodis.org) \| _2022_
 
 ## 🔬 INTERESTS
-
+My research mainly focuses on **physiological and pathological sleep**, **epilepsy** and **attention** in children, using **electroencephalography**.   
+I am also very interested in **statistics**, **methodology**, **open science**, and how to improve our **research practices**. 
 
 
 ## 🗞️ PUBLICATIONS
