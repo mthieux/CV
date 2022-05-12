@@ -31,7 +31,7 @@ _2019 - 2020_ \| **Clinical Research Assistant (CRA)** \| [Lyon Neuroscience Res
     
 
 ## 🏆 SKILLS, CERTIFICATIONS & GRANTS
-### Skills
+### SKILLS
 💬 **Langages**: French (native), English     
    
 💻 **Computer Languages**: 
@@ -41,11 +41,11 @@ _2019 - 2020_ \| **Clinical Research Assistant (CRA)** \| [Lyon Neuroscience Res
     
 💤 **Sleep scoring** (pediatrics)   
 
-### Certifications
+### CERTIFICATIONS
 - Good Clinical Practice _(2019, 2021)_ 
 - Scientific integrity & Research ethics _(2018, 2022)_
 
-### Grants
+### GRANTS
 - 3rd year PhD thesis \| [French Research and Medical Sleep Society](https://www.sfrms-sommeil.org) \| _2021-2022_
 - Project funding: _Vigilance in children_ \| [Neurodis fundation](https://www.fondation-neurodis.org) \| _2022_
 
