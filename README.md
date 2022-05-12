@@ -49,34 +49,39 @@ _2019 - 2020_ | **Clinical Research Assistant (CRA)** | [Lyon Neuroscience Resea
 
 ## 🔬 INTERESTS
 
+
+
 ## 🗞️ PUBLICATIONS
 ### 📄 Peer-reviewed publications
-1. Zhang, M., **Thieux, M.**, Inocente, C., Vieux, N., Arvis, L., Villanueva, C., Lin, J.S., Plancoulaine, S., Guyon, A., & Franco, P. Characterization of rapid weight gain phenotype in children with narcolepsy. _CNS Neurosci Ther_ [2022](https://onlinelibrary.wiley.com/doi/10.1111/cns.13811)
-2.	Guyon, A., Ravet, F., Champavert, A., **Thieux, M.,*** Patural, H., Plancoulaine, S., & Franco, P. Maturation of Arousals during Day and Night in Preterm Infants. Children. [2022](https://www.mdpi.com/2227-9067/9/2/223)
-3.	Thieux M, Duca M, Putois B, Herbillon V, Cottone C, Parmeggiani A, Arzimanoglou A, de Bellescize J, Franco P. Sleep disorders and ADHD symptoms in children and adolescents with typical absence seizures: An observational study. Epilepsy Behav. 2022 Jan 24;128:108513. 
-4.	Ioan I, Weick D, Sevin F, Sanlaville D, De Fréminville B, Schweitzer C, Akkari M, Coutier L, Putois B, Thieux M, Franco P. Pulse transit time as a diagnostic test for OSA in children with Down syndrome. J Clin Sleep Med. 2022 Jan 1;18(1):119-128. 
-5.	Zhang M., Thieux M., Vieux N., Guyon A., Franco P. Multiple Sleep Latency Test. In: Gozal D., Kheirandish-Gozal L. (eds) Pediatric Sleep Medicine. Springer, Cham. 2021. 
-6.	Thieux M, Zhang M, Marcastel A, Herbillon V, Guignard-Perret A, Seugnet L, Lin J-S, Guyon A, Plancoulaine S, Franco P. Intellectual Abilities of Children with Narcolepsy. Journal of Clinical Medicine 2020; 9(12): 4075. 
-7.	Guignard-Perret A,* Thieux M*, Guyon A, Mazza S, Zhang M, Revol O, … Franco P. Sleep of Children with High Potentialities: A Polysomnographic Study. Journal of Clinical Medicine 2020; 9(10): 3182. 
-8.	Zhang M, Inocente CO, Villanueva C, Lecendreux M, Dauvilliers Y, Lin JS, Arnulf I, Gustin MP, Thieux M & Franco P. Narcolepsy with cataplexy: Does age at diagnosis change the clinical picture? CNS Neurosci Ther 2020;26(10):1092–102. 
-9.	Coutier L, Bierme P, Thieux M, Guyon A, Ioan I, Reix P, & Franco P. The role of sleep laboratory polygraphy in the evaluation of obstructive sleep apnea syndrome in Robin infants. Sleep Medicine 2020; 72:59-64. 
-10.	Thieux M, Jung J, Bouet R, Gerard D, Bauer PR, Bertrand O, … Herbillon V. BLAST paradigm: A new test to assess brief attentional fluctuations in children with epilepsy, ADHD, and normally developing children. Epilepsy and Behavior 2019; 99. 
+1. Zhang M, **Thieux M**, Inocente C, Vieux N, Arvis L, Villanueva C, Lin JS, Plancoulaine S, Guyon A, & Franco P. Characterization of rapid weight gain phenotype in children with narcolepsy. _CNS Neurosci Ther_ [2022](https://onlinelibrary.wiley.com/doi/10.1111/cns.13811)
+2.	Guyon A, Ravet F, Champavert A, **Thieux M,** Patural H, Plancoulaine S, & Franco P. Maturation of Arousals during Day and Night in Preterm Infants. _Children_ [2022](https://www.mdpi.com/2227-9067/9/2/223)
+3.	**Thieux M**, Duca M, Putois B, Herbillon V, Cottone C, Parmeggiani A, Arzimanoglou A, de Bellescize J, Franco P. Sleep disorders and ADHD symptoms in children and adolescents with typical absence seizures: An observational study. _Epilepsy Behav._ [2022](https://www.sciencedirect.com/science/article/pii/S1525505021007745?casa_token=rWnbgZfV0M0AAAAA:8lFamsBp-zr6y7yuI3za96n8RBQbiCZ-W_zD_85XP-GCn0ELEc5LA2kb_fE-TyjI2rtQ9PDgYHNv) 
+4.	Ioan I, Weick D, Sevin F, Sanlaville D, De Fréminville B, Schweitzer C, Akkari M, Coutier L, Putois B, **Thieux M**, Franco P. Pulse transit time as a diagnostic test for OSA in children with Down syndrome. _J Clin Sleep Med._ [2022](https://jcsm.aasm.org/doi/abs/10.5664/jcsm.9510) 
+5.	Zhang M, **Thieux M**, Vieux N, Guyon A, & Franco P. Multiple Sleep Latency Test. In: Gozal D., Kheirandish-Gozal L. (eds) _Pediatric Sleep Medicine_. Springer, Cham. [2021](https://link.springer.com/chapter/10.1007/978-3-030-65574-7_19) 
+6.	**Thieux M**, Zhang M, Marcastel A, Herbillon V, Guignard-Perret A, Seugnet L, Lin J-S, Guyon A, Plancoulaine S, Franco P. Intellectual Abilities of Children with Narcolepsy. _Journal of Clinical Medicine_ [2020](https://www.mdpi.com/2077-0383/9/12/4075) 
+7.	Guignard-Perret A*, **Thieux M***, Guyon A, Mazza S, Zhang M, Revol O, … Franco P. Sleep of Children with High Potentialities: A Polysomnographic Study. _Journal of Clinical Medicine_ [2020](https://www.mdpi.com/2077-0383/9/10/3182) 
+8.	Zhang M, Inocente CO, Villanueva C, Lecendreux M, Dauvilliers Y, Lin JS, Arnulf I, Gustin MP, **Thieux M** & Franco P. Narcolepsy with cataplexy: Does age at diagnosis change the clinical picture? _CNS Neurosci Ther_ [2020](https://onlinelibrary.wiley.com/doi/full/10.1111/cns.13438) 
+9.	Coutier L, Bierme P, **Thieux M**, Guyon A, Ioan I, Reix P, & Franco P. The role of sleep laboratory polygraphy in the evaluation of obstructive sleep apnea syndrome in Robin infants. _Sleep Medicine_ [2020](https://www.sciencedirect.com/science/article/pii/S138994572030112X) 
+10.	**Thieux M**, Jung J, Bouet R, Gerard D, Bauer PR, Bertrand O, … Herbillon V. BLAST paradigm: A new test to assess brief attentional fluctuations in children with epilepsy, ADHD, and normally developing children. _Epilepsy and Behavior_ [2019](https://www.sciencedirect.com/science/article/pii/S1525505019305955) 
 
-### 🪧 Posters 
-1. Thieux, M., Zhang, M., Guignard-Perret, A., Revol, O., Guyon, A., & Franco, P. Does the brain sleep differently depending on intellectual abilities? European Sleep Research Society (Submitted)
-2. Thieux, M., Guyon, A., Herbillon, V., Merle, L., Lachaux, J.P., Plancoulaine, S., Seugnet, L., & Franco, P. Subjective and objective markers of sleepiness in drivers. SLEEP 2022 (Associated Professional Sleep Societies) (Accepted)
-3. Thieux, M., Zhang, M., Marcastel, A., Poitrinal, A., Vassias, F., Guyon, A., Herbillon, V., Guignard-Perret, A., & Franco, P. Are high cognitive abilities a protective factor for psycho-social repercussions in children with narcolepsy? SLEEP 2022 (Associated Professional Sleep Societies) (Accepted)
-4. Thieux, M, Zhang, M., Guyon, A., Plancoulaine, S., Herbillon, V., Seugnet, L., & Franco, P.  A-Amylase in children with narcolepsy: a pilot study. International Pediatric Sleep Association (Online, 05-06/02/2021) 🏆 **« Best Poster, Young Researcher Award »** 
-5. Zhang, M., Thieux, M., Inocente, C., Lin, J.S., Villanueva, C., Plancoulaine, S., Guyon, A., & Franco, P. Rapid weight gain in children with narcolepsy. International Pediatric Sleep Association (Online, 05-06/02/2021)
-6. Thieux, M., Guignard-Perret, A., Guyon, A., Mazza, S., Zhang, M., Revol, O., Plancoulaine, S. & Franco, P. Sleep of gifted -children: a polysomnographic study. European Sleep Research Society (Online, 22-24/09/2020)
-7. Thieux, M., Marcastel, A., Vieux, N., Guyon, A., Zhang, M., Mazza, S., Guignard-Perret, A., Plancoulaine, S. & Franco, P. Intellectual efficiency of children with narcolepsy. European Sleep Research Society (Online, 22-24/09/2020)
-8. Zhang M, Inocente CO, Villanueva C, Lecendreux M, Dauvilliers Y, Lin JS, Arnulf I, Gustin MP, Thieux M & Franco P. Narcolepsy with cataplexy: Does age at diagnosis change the clinical picture? European Sleep Research Society (Online, 22-24/09/2020)
+### 🪧 Posters | International congresses
+1. **Thieux M**, Zhang M, Guignard-Perret A, Revol O, Guyon A, & Franco P. _Does the brain sleep differently depending on intellectual abilities?_ European Sleep Research Society (Submitted)
+2. **Thieux M**, Guyon A, Herbillon V, Merle L, Lachaux JP, Plancoulaine S, Seugnet L, & Franco P. _Subjective and objective markers of sleepiness in drivers._ SLEEP 2022 (Associated Professional Sleep Societies) (Accepted)
+3. **Thieux M**, Zhang M, Marcastel A, Poitrinal A, Vassias F, Guyon A, Herbillon V, Guignard-Perret A, & Franco, P. _Are high cognitive abilities a protective factor for psycho-social repercussions in children with narcolepsy?_ SLEEP 2022 (Associated Professional Sleep Societies) (Accepted)
+4. **Thieux M**, Zhang M, Guyon A, Plancoulaine S, Herbillon V, Seugnet L, & Franco P.  _A-Amylase in children with narcolepsy: a pilot study._ International Pediatric Sleep Association (Online, 05-06/02/2021) 🏆 **« Best Poster, Young Researcher Award »** 
+5. Zhang M, **Thieux M**, Inocente C, Lin JS, Villanueva C, Plancoulaine S, Guyon A, & Franco P. _Rapid weight gain in children with narcolepsy._ International Pediatric Sleep Association (Online, 05-06/02/2021)
+6. **Thieux M**, Guignard-Perret A, Guyon A, Mazza S, Zhang M, Revol O, Plancoulaine S, & Franco P. _Sleep of gifted children: a polysomnographic study._ European Sleep Research Society (Online, 22-24/09/2020)
+7. **Thieux M**, Marcastel A, Vieux N, Guyon A, Zhang M, Mazza S, Guignard-Perret A, Plancoulaine S, & Franco P. _Intellectual efficiency of children with narcolepsy._ European Sleep Research Society (Online, 22-24/09/2020)
+8. Zhang M, Inocente CO, Villanueva C, Lecendreux M, Dauvilliers Y, Lin JS, Arnulf I, Gustin MP, **Thieux M**, & Franco P. _Narcolepsy with cataplexy: Does age at diagnosis change the clinical picture?_ European Sleep Research Society (Online, 22-24/09/2020)
 
 ### 🎤  Oral communications 
-### General public communications 
+
+### 📣  General public communications 
+- 🎤 🇫🇷 Is salivary a-amylase a reliable marker of sleepiness? | **Pediatric Narcolepsy-Hypersomnia Workshop** | Lyon, France | 30/03/2022
+- 🎤 🇫🇷 Attention of children in 2022, fragile ! | **Brain Week** | Lyon, France | 14/03/2022
+- ✒️ 🇫🇷 **Thieux M**, Guyon A, Guignard-Perret A, & Franco P. Relationship between REM sleep and intelligence in children. _Neurodiem_ [2021](https://www.neurodiem.fr/news/quels-liens-entre-sommeil-paradoxal-et-intelligence-chez-lenfant-1NTuwSzvjVvFzgQRuWJES7)
+
 
 [Link](url) and ![Image](src)
 
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
