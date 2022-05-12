@@ -75,11 +75,11 @@ _2019 - 2020_ | **Clinical Research Assistant (CRA)** | [Lyon Neuroscience Resea
 8. Zhang M, Inocente CO, Villanueva C, Lecendreux M, Dauvilliers Y, Lin JS, Arnulf I, Gustin MP, **Thieux M**, & Franco P. _Narcolepsy with cataplexy: Does age at diagnosis change the clinical picture?_ European Sleep Research Society (Online, 22-24/09/2020)
 
 ### 🎤  Oral communications | National 🇫🇷
-- Circadian disorders in children with ADHD: several phenotypes of sleep disorders | **Pediatric Tuesdays** | Lyon, France | 2022
-- Sleep and attention disorders in children with absence seizures | **ExpEEG, 4th edition** - French Society of Clinical Neurophysiology| Paris, France | 2021
-- Biological and electrophysiological markers of sleepiness in children with narcolepsy | **Pediatric Tuesdays** | Lyon, France | 2021
-- Repercussions of sleep disorders in children with absence seizures | **Pediatric Tuesdays** | Lyon, France | 2020
-- Evaluation of factors impacting intellectual efficiency of children with narcolepsy type 1 | **French Sleep Congress** | Lille, France | 2019
+- Circadian disorders in children with ADHD: several phenotypes of sleep disorders  **Pediatric Tuesdays** | Lyon, France | 2022    
+- Sleep and attention disorders in children with absence seizures | **ExpEEG, 4th edition** - French Society of Clinical Neurophysiology| Paris, France | 2021   
+- Biological and electrophysiological markers of sleepiness in children with narcolepsy | **Pediatric Tuesdays** | Lyon, France | 2021   
+- Repercussions of sleep disorders in children with absence seizures | **Pediatric Tuesdays** | Lyon, France | 2020   
+- Evaluation of factors impacting intellectual efficiency of children with narcolepsy type 1 | **French Sleep Congress** | Lille, France | 2019   
 
 ### 📣  General public communications | National 🇫🇷
 - 🎤 Is salivary a-amylase a reliable marker of sleepiness? | **Pediatric Narcolepsy-Hypersomnia Workshop** | Lyon, France | 2022
