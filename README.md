@@ -5,7 +5,6 @@
 ✉️ [Email](mailto:marine.thieux@chu-lyon.fr)   🌍 [ResearchGate](https://www.researchgate.net/profile/Marine-Thieux?ev=hdr_xprf&_sg=oUGMqPkHXiTZ7uccPAa7bmgQQe6HQNjFWnJqlfMrAMW1O5GK4lazSc5DA6hDtamllZ4z-tKcs46usmSDAY9wLO75) 📍 [ORCID](https://orcid.org/0000-0001-9763-2802)  ✒️ [Google Scholar](https://scholar.google.com/citations?hl=fr&user=x-7oMl4AAAAJ)  📚[LinkedIn](https://www.linkedin.com/in/marine-thieux-b7b313115/)     
 
 ## 🎓 EDUCATION
-
 _2019 - 2022_ \| **Ph.D., Neurosciences** \| [Lyon Neurosciences Research Center / WAKING Team](https://www.crnl.fr/en/equipe/waking?language=en)
 - PhD defense date: October, 2022
 - Doctoral thesis: _Biological, electrophysiological and neurocognitive markers of sleepiness in children with narcolepsy_
@@ -18,7 +17,6 @@ _2016 - 2018_ \| **Master, Neuropsychology** \| [Lyon II University](https://wel
 _2013 - 2016_ \| **Bachelor, Psychology** \| [Burgundy University](https://en.u-bourgogne.fr)
 
 ## 💼 WORK EXPERIENCES   
-
 _2020 - 2021_ \| **Clinical Research Assistant (CRA)** \| [Medipole Hopital Mutualiste](https://www.medipolelyonvilleurbanne.fr)   
     
 _2020 - 2021_ \| **Teaching Fellow** \| [Lyon II University](https://welcome.univ-lyon2.fr)      
@@ -77,16 +75,24 @@ _2019 - 2020_ \| **Clinical Research Assistant (CRA)** \| [Lyon Neuroscience Res
 8. Zhang M, Inocente CO, Villanueva C, Lecendreux M, Dauvilliers Y, Lin JS, Arnulf I, Gustin MP, **Thieux M**, & Franco P. _Narcolepsy with cataplexy: Does age at diagnosis change the clinical picture?_ European Sleep Research Society (Online, 22-24/09/2020)
 
 ### 🎤  Oral communications | National 🇫🇷
-- Circadian disorders in children with ADHD: several phenotypes of sleep disorders \| **Pediatric Tuesdays** \| Lyon, France \| 2022     
-- Sleep and attention disorders in children with absence seizures \| **ExpEEG, 4th edition** - French Society of Clinical Neurophysiology \| Paris, France \| 2021    
-- Biological and electrophysiological markers of sleepiness in children with narcolepsy \| **Pediatric Tuesdays** \| Lyon, France \| 2021   
-- Repercussions of sleep disorders in children with absence seizures \| **Pediatric Tuesdays** \| Lyon, France \| 2020   
-- Evaluation of factors impacting intellectual efficiency of children with narcolepsy type 1 \| **French Sleep Congress** \| Lille, France \| 2019   
+- _Circadian disorders in children with ADHD: several phenotypes of sleep disorders_   
+  **Pediatric Tuesdays** \| Lyon, France \| 2022     
+- _Sleep and attention disorders in children with absence seizures_   
+  **ExpEEG, 4th edition - French Society of Clinical Neurophysiology** \| Paris, France \| 2021    
+- _Biological and electrophysiological markers of sleepiness in children with narcolepsy_  
+  **Pediatric Tuesdays** \| Lyon, France \| 2021   
+- _Repercussions of sleep disorders in children with absence seizures_     
+  **Pediatric Tuesdays** \| Lyon, France \| 2020   
+- _Evaluation of factors impacting intellectual efficiency of children with narcolepsy type 1_     
+  **French Sleep Congress** \| Lille, France \| 2019   
 
 ### 📣  General public communications | National 🇫🇷
-- 🎤 Is salivary a-amylase a reliable marker of sleepiness? \| **Pediatric Narcolepsy-Hypersomnia Workshop** \| Lyon, France \| 2022
-- 🎤 Attention of children in 2022, fragile ! \| **Brain Week** \| Lyon, France \| 2022
-- ✒️ **Thieux M**, Guyon A, Guignard-Perret A, & Franco P. Relationship between REM sleep and intelligence in children. _Neurodiem_ [2021](https://www.neurodiem.fr/news/quels-liens-entre-sommeil-paradoxal-et-intelligence-chez-lenfant-1NTuwSzvjVvFzgQRuWJES7)
+- _Is salivary a-amylase a reliable marker of sleepiness?_ 🎤   
+ **Pediatric Narcolepsy-Hypersomnia Workshop** \| Lyon, France \| 2022
+- _Attention of children in 2022, fragile !_ 🎤  
+ **Brain Week** \| Lyon, France \| 2022
+- **Thieux M**, Guyon A, Guignard-Perret A, & Franco P. Relationship between REM sleep and intelligence in children.✒️     
+ _Neurodiem_ [2021](https://www.neurodiem.fr/news/quels-liens-entre-sommeil-paradoxal-et-intelligence-chez-lenfant-1NTuwSzvjVvFzgQRuWJES7)
 
 
 
