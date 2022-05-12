@@ -26,7 +26,6 @@ _2019 - 2021_ \| **Neuropsychologist - Clinical Research Assistant (CRA)** \| [H
 Department of Paediatric Clinical Epileptology, Sleep Disorders and Functional Neurology, Reference Center for Narcolepsy and Rare Hypersomnia   
 
 _2019 - 2020_ \| **Clinical Research Assistant (CRA)** \| [Lyon Neuroscience Research Center](https://www.crnl.fr/en/equipe/waking?language=en)   
-    
 
 ## 🏆 SKILLS, CERTIFICATIONS & GRANTS
 ### SKILLS
@@ -49,8 +48,8 @@ _2019 - 2020_ \| **Clinical Research Assistant (CRA)** \| [Lyon Neuroscience Res
 
 ## 🔬 INTERESTS
 My research mainly focuses on **physiological and pathological sleep**, **epilepsy** and **attention** in children, using **electroencephalography**.   
-I am also very interested in **statistics**, **methodology**, **open science**, and how to improve our **research practices**. 
-
+I am also very interested in **statistics**, **methodology**, **open science**, and how to improve our **research practices**.    
+_#Cognitive Neuroscience #Sleep Research #Neuropsychology #Biological Psychology_
 
 ## 🗞️ PUBLICATIONS
 ### 📄 Peer-reviewed publications
