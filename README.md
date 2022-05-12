@@ -1,4 +1,5 @@
-# Marine  
+
+# ![Picture](https://user-images.githubusercontent.com/78622199/168043654-cce9e277-cf33-437d-9438-b04e8a8b1736.jpg) Marine Thieux 
 **PhD Student in Neurosciences - Neuropsychologist**   
 🇫🇷 _Lyon Neurosciences Research Center_, Lyon, France   
 ✉️ [Email](mailto:marine.thieux@chu-lyon.fr)   🌍 [ResearchGate](https://www.researchgate.net/profile/Marine-Thieux?ev=hdr_xprf&_sg=oUGMqPkHXiTZ7uccPAa7bmgQQe6HQNjFWnJqlfMrAMW1O5GK4lazSc5DA6hDtamllZ4z-tKcs46usmSDAY9wLO75) 📍 [ORCID](https://orcid.org/0000-0001-9763-2802)  ✒️ [Google Scholar](https://scholar.google.com/citations?hl=fr&user=x-7oMl4AAAAJ)  📚[LinkedIn](https://www.linkedin.com/in/marine-thieux-b7b313115/)     
@@ -76,15 +77,15 @@ _2019 - 2020_ \| **Clinical Research Assistant (CRA)** \| [Lyon Neuroscience Res
 8. Zhang M, Inocente CO, Villanueva C, Lecendreux M, Dauvilliers Y, Lin JS, Arnulf I, Gustin MP, **Thieux M**, & Franco P. _Narcolepsy with cataplexy: Does age at diagnosis change the clinical picture?_ European Sleep Research Society (Online, 22-24/09/2020)
 
 ### 🎤  Oral communications | National 🇫🇷
-Circadian disorders in children with ADHD: several phenotypes of sleep disorders \| **Pediatric Tuesdays** \| Lyon, France \| 2022     
-Sleep and attention disorders in children with absence seizures \| **ExpEEG, 4th edition** - French Society of Clinical Neurophysiology \| Paris, France \| 2021    
-Biological and electrophysiological markers of sleepiness in children with narcolepsy \| **Pediatric Tuesdays** \| Lyon, France \| 2021   
-Repercussions of sleep disorders in children with absence seizures \| **Pediatric Tuesdays** \| Lyon, France \| 2020   
-Evaluation of factors impacting intellectual efficiency of children with narcolepsy type 1 \| **French Sleep Congress** \| Lille, France \| 2019   
+- Circadian disorders in children with ADHD: several phenotypes of sleep disorders \| **Pediatric Tuesdays** \| Lyon, France \| 2022     
+- Sleep and attention disorders in children with absence seizures \| **ExpEEG, 4th edition** - French Society of Clinical Neurophysiology \| Paris, France \| 2021    
+- Biological and electrophysiological markers of sleepiness in children with narcolepsy \| **Pediatric Tuesdays** \| Lyon, France \| 2021   
+- Repercussions of sleep disorders in children with absence seizures \| **Pediatric Tuesdays** \| Lyon, France \| 2020   
+- Evaluation of factors impacting intellectual efficiency of children with narcolepsy type 1 \| **French Sleep Congress** \| Lille, France \| 2019   
 
 ### 📣  General public communications | National 🇫🇷
-- 🎤 Is salivary a-amylase a reliable marker of sleepiness? | **Pediatric Narcolepsy-Hypersomnia Workshop** | Lyon, France | 2022
-- 🎤 Attention of children in 2022, fragile ! | **Brain Week** | Lyon, France | 2022
+- 🎤 Is salivary a-amylase a reliable marker of sleepiness? \| **Pediatric Narcolepsy-Hypersomnia Workshop** \| Lyon, France \| 2022
+- 🎤 Attention of children in 2022, fragile ! \| **Brain Week** \| Lyon, France \| 2022
 - ✒️ **Thieux M**, Guyon A, Guignard-Perret A, & Franco P. Relationship between REM sleep and intelligence in children. _Neurodiem_ [2021](https://www.neurodiem.fr/news/quels-liens-entre-sommeil-paradoxal-et-intelligence-chez-lenfant-1NTuwSzvjVvFzgQRuWJES7)
 
 
