@@ -5,28 +5,28 @@
 
 ## 🎓 EDUCATION
 
-_2019 - 2022_ | **Ph.D., Neurosciences** | [Lyon Neurosciences Research Center / WAKING Team](https://www.crnl.fr/en/equipe/waking?language=en)
+_2019 - 2022_ \| **Ph.D., Neurosciences** \| [Lyon Neurosciences Research Center / WAKING Team](https://www.crnl.fr/en/equipe/waking?language=en)
 - PhD defense date: October, 2022
 - Doctoral thesis: _Biological, electrophysiological and neurocognitive markers of sleepiness in children with narcolepsy_
 - Supervision: Pr Franco Patricia, MD, PhD, Mr Herbillon Vania and Dr Guyon Aurore, PhD
 
-_2016 - 2018_ | **Master, Neuropsychology** | [Lyon II University](https://welcome.univ-lyon2.fr)
+_2016 - 2018_ \| **Master, Neuropsychology** \| [Lyon II University](https://welcome.univ-lyon2.fr)
 - Master thesis: _Impact of interictal epileptiform discharges in children with epilepsy: transient attentional disorder_
 - Supervision: Dr Lachaux Jean-Philippe, PhD 
 
-_2013 - 2016_ | **Bachelor, Psychology** | [Burgundy University](https://en.u-bourgogne.fr)
+_2013 - 2016_ \| **Bachelor, Psychology** \| [Burgundy University](https://en.u-bourgogne.fr)
 
 ## 💼 WORK EXPERIENCES   
 
-_2020 - 2021_ | **Clinical Research Assistant (CRA)** | [Medipole Hopital Mutualiste](https://www.medipolelyonvilleurbanne.fr)   
+_2020 - 2021_ \| **Clinical Research Assistant (CRA)** \| [Medipole Hopital Mutualiste](https://www.medipolelyonvilleurbanne.fr)   
     
-_2020 - 2021_ | **Teaching Fellow** | [Lyon II University](https://welcome.univ-lyon2.fr)      
+_2020 - 2021_ \| **Teaching Fellow** \| [Lyon II University](https://welcome.univ-lyon2.fr)      
 Cognitive Neurosciences - 3rd year Bachelor Students    
 
-_2019 - 2021_ | **Neuropsychologist - Clinical Research Assistant (CRA)** | [Hospices Civils de Lyon](https://www.chu-lyon.fr/service-epileptologie-clinique-troubles-sommeil-neurologie-fonctionnelle-enfant)      
+_2019 - 2021_ \| **Neuropsychologist - Clinical Research Assistant (CRA)** \| [Hospices Civils de Lyon](https://www.chu-lyon.fr/service-epileptologie-clinique-troubles-sommeil-neurologie-fonctionnelle-enfant)      
 Department of Paediatric Clinical Epileptology, Sleep Disorders and Functional Neurology, Reference Center for Narcolepsy and Rare Hypersomnia   
 
-_2019 - 2020_ | **Clinical Research Assistant (CRA)** | [Lyon Neuroscience Research Center](https://www.crnl.fr/en/equipe/waking?language=en)   
+_2019 - 2020_ \| **Clinical Research Assistant (CRA)** \| [Lyon Neuroscience Research Center](https://www.crnl.fr/en/equipe/waking?language=en)   
     
 
 ## 🏆 SKILLS, CERTIFICATIONS & GRANTS
@@ -45,8 +45,8 @@ _2019 - 2020_ | **Clinical Research Assistant (CRA)** | [Lyon Neuroscience Resea
 - Scientific integrity & Research ethics _(2018, 2022)_
 
 ### Grants
-- 3rd year PhD thesis | [French Research and Medical Sleep Society](https://www.sfrms-sommeil.org) | _2021-2022_
-- Project funding: _Vigilance in children_ | [Neurodis fundation](https://www.fondation-neurodis.org) | _2022_
+- 3rd year PhD thesis \| [French Research and Medical Sleep Society](https://www.sfrms-sommeil.org) \| _2021-2022_
+- Project funding: _Vigilance in children_ \| [Neurodis fundation](https://www.fondation-neurodis.org) \| _2022_
 
 ## 🔬 INTERESTS
 
@@ -76,11 +76,11 @@ _2019 - 2020_ | **Clinical Research Assistant (CRA)** | [Lyon Neuroscience Resea
 8. Zhang M, Inocente CO, Villanueva C, Lecendreux M, Dauvilliers Y, Lin JS, Arnulf I, Gustin MP, **Thieux M**, & Franco P. _Narcolepsy with cataplexy: Does age at diagnosis change the clinical picture?_ European Sleep Research Society (Online, 22-24/09/2020)
 
 ### 🎤  Oral communications | National 🇫🇷
-- Circadian disorders in children with ADHD: several phenotypes of sleep disorders \| **Pediatric Tuesdays** \| Lyon, France \| 2022     
-- Sleep and attention disorders in children with absence seizures \| **ExpEEG, 4th edition** - French Society of Clinical Neurophysiology \| Paris, France \| 2021    
-- Biological and electrophysiological markers of sleepiness in children with narcolepsy | **Pediatric Tuesdays** | Lyon, France | 2021   
-- Repercussions of sleep disorders in children with absence seizures | **Pediatric Tuesdays** | Lyon, France | 2020   
-- Evaluation of factors impacting intellectual efficiency of children with narcolepsy type 1 | **French Sleep Congress** | Lille, France | 2019   
+Circadian disorders in children with ADHD: several phenotypes of sleep disorders \| **Pediatric Tuesdays** \| Lyon, France \| 2022     
+Sleep and attention disorders in children with absence seizures \| **ExpEEG, 4th edition** - French Society of Clinical Neurophysiology \| Paris, France \| 2021    
+Biological and electrophysiological markers of sleepiness in children with narcolepsy \| **Pediatric Tuesdays** \| Lyon, France \| 2021   
+Repercussions of sleep disorders in children with absence seizures \| **Pediatric Tuesdays** \| Lyon, France \| 2020   
+Evaluation of factors impacting intellectual efficiency of children with narcolepsy type 1 \| **French Sleep Congress** \| Lille, France \| 2019   
 
 ### 📣  General public communications | National 🇫🇷
 - 🎤 Is salivary a-amylase a reliable marker of sleepiness? | **Pediatric Narcolepsy-Hypersomnia Workshop** | Lyon, France | 2022
@@ -88,6 +88,5 @@ _2019 - 2020_ | **Clinical Research Assistant (CRA)** | [Lyon Neuroscience Resea
 - ✒️ **Thieux M**, Guyon A, Guignard-Perret A, & Franco P. Relationship between REM sleep and intelligence in children. _Neurodiem_ [2021](https://www.neurodiem.fr/news/quels-liens-entre-sommeil-paradoxal-et-intelligence-chez-lenfant-1NTuwSzvjVvFzgQRuWJES7)
 
 
-[Link](url) and ![Image](src)
 
 
