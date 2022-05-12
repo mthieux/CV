@@ -64,7 +64,7 @@ _2019 - 2020_ | **Clinical Research Assistant (CRA)** | [Lyon Neuroscience Resea
 9.	Coutier L, Bierme P, **Thieux M**, Guyon A, Ioan I, Reix P, & Franco P. The role of sleep laboratory polygraphy in the evaluation of obstructive sleep apnea syndrome in Robin infants. _Sleep Medicine_ [2020](https://www.sciencedirect.com/science/article/pii/S138994572030112X) 
 10.	**Thieux M**, Jung J, Bouet R, Gerard D, Bauer PR, Bertrand O, … Herbillon V. BLAST paradigm: A new test to assess brief attentional fluctuations in children with epilepsy, ADHD, and normally developing children. _Epilepsy and Behavior_ [2019](https://www.sciencedirect.com/science/article/pii/S1525505019305955) 
 
-### 🪧 Posters | International congresses
+### 🪧 Posters | International congresses 🌍
 1. **Thieux M**, Zhang M, Guignard-Perret A, Revol O, Guyon A, & Franco P. _Does the brain sleep differently depending on intellectual abilities?_ European Sleep Research Society (Submitted)
 2. **Thieux M**, Guyon A, Herbillon V, Merle L, Lachaux JP, Plancoulaine S, Seugnet L, & Franco P. _Subjective and objective markers of sleepiness in drivers._ SLEEP 2022 (Associated Professional Sleep Societies) (Accepted)
 3. **Thieux M**, Zhang M, Marcastel A, Poitrinal A, Vassias F, Guyon A, Herbillon V, Guignard-Perret A, & Franco, P. _Are high cognitive abilities a protective factor for psycho-social repercussions in children with narcolepsy?_ SLEEP 2022 (Associated Professional Sleep Societies) (Accepted)
@@ -74,12 +74,17 @@ _2019 - 2020_ | **Clinical Research Assistant (CRA)** | [Lyon Neuroscience Resea
 7. **Thieux M**, Marcastel A, Vieux N, Guyon A, Zhang M, Mazza S, Guignard-Perret A, Plancoulaine S, & Franco P. _Intellectual efficiency of children with narcolepsy._ European Sleep Research Society (Online, 22-24/09/2020)
 8. Zhang M, Inocente CO, Villanueva C, Lecendreux M, Dauvilliers Y, Lin JS, Arnulf I, Gustin MP, **Thieux M**, & Franco P. _Narcolepsy with cataplexy: Does age at diagnosis change the clinical picture?_ European Sleep Research Society (Online, 22-24/09/2020)
 
-### 🎤  Oral communications 
+### 🎤  Oral communications | National 🇫🇷
+- Circadian disorders in children with ADHD: several phenotypes of sleep disorders | **Pediatric Tuesdays** | Lyon, France | 2022
+- Sleep and attention disorders in children with absence seizures | **ExpEEG, 4th edition** - French Society of Clinical Neurophysiology| Paris, France | 2021
+- Biological and electrophysiological markers of sleepiness in children with narcolepsy | **Pediatric Tuesdays** | Lyon, France | 2021
+- Repercussions of sleep disorders in children with absence seizures | **Pediatric Tuesdays** | Lyon, France | 2020
+- Evaluation of factors impacting intellectual efficiency of children with narcolepsy type 1 | **French Sleep Congress** | Lille, France | 2019
 
-### 📣  General public communications 
-- 🎤 🇫🇷 Is salivary a-amylase a reliable marker of sleepiness? | **Pediatric Narcolepsy-Hypersomnia Workshop** | Lyon, France | 30/03/2022
-- 🎤 🇫🇷 Attention of children in 2022, fragile ! | **Brain Week** | Lyon, France | 14/03/2022
-- ✒️ 🇫🇷 **Thieux M**, Guyon A, Guignard-Perret A, & Franco P. Relationship between REM sleep and intelligence in children. _Neurodiem_ [2021](https://www.neurodiem.fr/news/quels-liens-entre-sommeil-paradoxal-et-intelligence-chez-lenfant-1NTuwSzvjVvFzgQRuWJES7)
+### 📣  General public communications | National 🇫🇷
+- 🎤 Is salivary a-amylase a reliable marker of sleepiness? | **Pediatric Narcolepsy-Hypersomnia Workshop** | Lyon, France | 2022
+- 🎤 Attention of children in 2022, fragile ! | **Brain Week** | Lyon, France | 2022
+- ✒️ **Thieux M**, Guyon A, Guignard-Perret A, & Franco P. Relationship between REM sleep and intelligence in children. _Neurodiem_ [2021](https://www.neurodiem.fr/news/quels-liens-entre-sommeil-paradoxal-et-intelligence-chez-lenfant-1NTuwSzvjVvFzgQRuWJES7)
 
 
 [Link](url) and ![Image](src)
