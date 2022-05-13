@@ -1,5 +1,5 @@
 
-# ![Picture](https://user-images.githubusercontent.com/78622199/168043654-cce9e277-cf33-437d-9438-b04e8a8b1736.jpg) Marine Thieux 
+# Marine Thieux 
 **PhD Student in Neurosciences - Neuropsychologist**   
 🇫🇷 _Lyon Neurosciences Research Center_, Lyon, France   
 ✉️ [Email](mailto:marine.thieux@chu-lyon.fr)   🌍 [ResearchGate](https://www.researchgate.net/profile/Marine-Thieux?ev=hdr_xprf&_sg=oUGMqPkHXiTZ7uccPAa7bmgQQe6HQNjFWnJqlfMrAMW1O5GK4lazSc5DA6hDtamllZ4z-tKcs46usmSDAY9wLO75) 📍 [ORCID](https://orcid.org/0000-0001-9763-2802)  ✒️ [Google Scholar](https://scholar.google.com/citations?hl=fr&user=x-7oMl4AAAAJ)  📚[LinkedIn](https://www.linkedin.com/in/marine-thieux-b7b313115/)     
