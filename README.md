@@ -7,7 +7,7 @@
 ## 🎓 EDUCATION
 _2019 - 2022_ \| **Ph.D., Neurosciences** \| [Lyon Neurosciences Research Center](https://www.crnl.fr/en/equipe/waking?language=en)   
 Waking Team: Integrated Physiology of the Brain Arousal Systems
-- PhD defense date: October, 2022
+- PhD defense date: December, 2022
 - Doctoral thesis: _Biological, electrophysiological and neurocognitive markers of sleepiness in children with narcolepsy_
 - Supervision: Pr Franco Patricia, MD, PhD, Mr Herbillon Vania and Dr Guyon Aurore, PhD
 
@@ -44,11 +44,12 @@ _2019 - 2020_ \| **Clinical Research Assistant (CRA)** \| [Lyon Neuroscience Res
 - Scientific integrity & Research ethics _(2018, 2022)_
 
 ### GRANTS
+- Travel Grant \| [European Sleep Research Society](https://esrs.eu) \| _2022_
 - 3rd year PhD thesis \| [French Research and Medical Sleep Society](https://www.sfrms-sommeil.org) \| _2021-2022_
 - Project funding: _Vigilance in children_ \| [Neurodis fundation](https://www.fondation-neurodis.org) \| _2022_
 
 ## 🔬 INTERESTS
-My research mainly focuses on physiological and pathological **sleep**, **epilepsy**, **sleepiness** and **attention** in children, using **electroencephalography**. I am also very interested in **statistics**, **methodology**, open science, and how to improve our research practices.    
+My research mainly focuses on physiological and pathological **sleep**, **sleepiness** and **attention** in children, using **electroencephalography**. I am also very interested in **statistics**, **methodology**, open science, and how to improve our research practices.    
 
 ## 🗞️ PUBLICATIONS
 ### 📄 Peer-reviewed publications
@@ -64,9 +65,9 @@ My research mainly focuses on physiological and pathological **sleep**, **epilep
 10.	**Thieux M**, Jung J, Bouet R, Gerard D, Bauer PR, Bertrand O, … Herbillon V. BLAST paradigm: A new test to assess brief attentional fluctuations in children with epilepsy, ADHD, and normally developing children. _Epilepsy and Behavior_ [2019](https://www.sciencedirect.com/science/article/pii/S1525505019305955) 
 
 ### 🪧 Posters | International congresses 🌍
-1. **Thieux M**, Zhang M, Guignard-Perret A, Revol O, Guyon A, & Franco P. _Does the brain sleep differently depending on intellectual abilities?_ European Sleep Research Society (Submitted)
-2. **Thieux M**, Guyon A, Herbillon V, Merle L, Lachaux JP, Plancoulaine S, Seugnet L, & Franco P. _Subjective and objective markers of sleepiness in drivers._ SLEEP 2022 (Associated Professional Sleep Societies) (Accepted)
-3. **Thieux M**, Zhang M, Marcastel A, Poitrinal A, Vassias F, Guyon A, Herbillon V, Guignard-Perret A, & Franco, P. _Are high cognitive abilities a protective factor for psycho-social repercussions in children with narcolepsy?_ SLEEP 2022 (Associated Professional Sleep Societies) (Accepted)
+1. **Thieux M**, Zhang M, Guignard-Perret A, Revol O, Guyon A, & Franco P. _Does the brain sleep differently depending on intellectual abilities?_ European Sleep Research Society (Accepted as "Oral Communication")
+2. **Thieux M**, Guyon A, Herbillon V, Merle L, Lachaux JP, Plancoulaine S, Seugnet L, & Franco P. _Subjective and objective markers of sleepiness in drivers._ SLEEP 2022 (Associated Professional Sleep Societies) (Charlotte, 04-08/06/2022)
+3. **Thieux M**, Zhang M, Marcastel A, Poitrinal A, Vassias F, Guyon A, Herbillon V, Guignard-Perret A, & Franco, P. _Are high cognitive abilities a protective factor for psycho-social repercussions in children with narcolepsy?_ SLEEP 2022 (Associated Professional Sleep Societies) (Charlotte, 04-08/06/2022)
 4. **Thieux M**, Zhang M, Guyon A, Plancoulaine S, Herbillon V, Seugnet L, & Franco P.  _A-Amylase in children with narcolepsy: a pilot study._ International Pediatric Sleep Association (Online, 05-06/02/2021) 🏆 **« Best Poster, Young Researcher Award »** 
 5. Zhang M, **Thieux M**, Inocente C, Lin JS, Villanueva C, Plancoulaine S, Guyon A, & Franco P. _Rapid weight gain in children with narcolepsy._ International Pediatric Sleep Association (Online, 05-06/02/2021)
 6. **Thieux M**, Guignard-Perret A, Guyon A, Mazza S, Zhang M, Revol O, Plancoulaine S, & Franco P. _Sleep of gifted children: a polysomnographic study._ European Sleep Research Society (Online, 22-24/09/2020)
